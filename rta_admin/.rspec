@@ -1,0 +1,5 @@
+--color
+--require rails_helper
+--format progress
+--order defined
+

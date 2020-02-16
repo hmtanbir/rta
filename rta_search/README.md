@@ -4,7 +4,7 @@ This project is powered by Ruby on rails.
 
 # Installation Process
 
-Move in college local repository : $ cd rta_search
+Move in local repository : $ cd rta_search
 
 Install bundler : $ gem install bundler
 

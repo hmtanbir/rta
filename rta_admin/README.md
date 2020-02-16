@@ -7,7 +7,7 @@ Rails version: 5.2
 
 # Installation Process
 
-Move in college local repository : $ cd rta_admin
+Move in local repository : $ cd rta_admin
 
 Install bundler : $ gem install bundler
 

@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d023d6-b2ea-48f9-bc8f-3e28b88c149b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/rta_admin/.idea/.generators" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rta_admin/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rta_admin/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rta_admin/.idea/rta_admin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rta_admin/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rta_admin/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rta_admin/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/rta_admin/log/development.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581755125244</updated>
       <workItem from="1581755126463" duration="3844000" />
-      <workItem from="1581846972895" duration="607000" />
+      <workItem from="1581846972895" duration="1056000" />
     </task>
     <servers />
   </component>

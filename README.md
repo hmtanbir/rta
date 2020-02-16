@@ -34,7 +34,7 @@ Install bundler : $ gem install bundler
 
 Install college : $ bundle install
 
-Database migrate : $ rake db:migrate
+Database migrate : $ rails db:migrate
 
 Run server : $ rails server -p 4000 or $ rails s -p 4000
 

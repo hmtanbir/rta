@@ -85,4 +85,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Using rake cache tools
 gem 'rack-cache', :require => 'rack/cache'
 # install gem better_error
-gem 'better_errors', '~> 2.1', '>= 2.1.1'
+gem 'better_errors', '~> 2.8'
